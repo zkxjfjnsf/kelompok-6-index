@@ -139,8 +139,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id_user`, `username`, `password`, `nama`, `email`, `alamat`, `role`) VALUES
-(1, 'admin', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'kelompok', '220101087@udb.ac.id', '', '1'),
-(9, 'dinar', '130fa59d27d68ea60e3fce6d4f91081879fde851', 'dinar', '220101087@udb.ac.id', '', '2');
+(1, 'admin', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'kelompok', 'hayokamusiapa@gmail.com', '', '1'),
+(9, 'vote', 'fd63f1ed328da3401a66770beba9587e8829e1e1', 'vote', 'hayoinisiapa@gmail.com', '', '2');
 
 --
 -- Indexes for dumped tables
